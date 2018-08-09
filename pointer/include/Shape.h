@@ -4,17 +4,19 @@
 
 class Shape
 {
-    int width, height;
+
     public:
+        int width, height;
         Shape();
         Shape(int,int);
         virtual ~Shape();
-        int area(void);
         void set_values(int, int);
 
     protected:
 
     private:
 };
+
+
 
 #endif // SHAPE_H

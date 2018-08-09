@@ -1,10 +1,23 @@
 # depslib dependency file v1.0
-1533841486 source:c:\users\umroot\desktop\gitstudys\pointer\main.cpp
+1533843758 source:c:\users\umroot\desktop\gitstudys\pointer\main.cpp
 	<iostream>
-	<Shape.h>
+	<Rectangle.h>
+	<Triangle.h>
 
-1533841309 source:c:\users\umroot\desktop\gitstudys\pointer\src\shape.cpp
+1533843493 source:c:\users\umroot\desktop\gitstudys\pointer\src\shape.cpp
 	"Shape.h"
 
-1533841582 c:\users\umroot\desktop\gitstudys\pointer\include\shape.h
+1533843987 c:\users\umroot\desktop\gitstudys\pointer\include\shape.h
+
+1533844112 c:\users\umroot\desktop\gitstudys\pointer\include\rectangle.h
+	"Shape.h"
+
+1533844122 c:\users\umroot\desktop\gitstudys\pointer\include\triangle.h
+	"Shape.h"
+
+1533844142 source:c:\users\umroot\desktop\gitstudys\pointer\src\rectangle.cpp
+	"Rectangle.h"
+
+1533844132 source:c:\users\umroot\desktop\gitstudys\pointer\src\triangle.cpp
+	"Triangle.h"
 

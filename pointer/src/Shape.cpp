@@ -17,10 +17,6 @@ Shape::~Shape()
     //dtor
 }
 
-int Shape::area(void)
-{
-return width*height;
-}
 
 void Shape::set_values(int x, int y)
 {
