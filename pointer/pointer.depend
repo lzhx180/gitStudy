@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1533841486 source:c:\users\umroot\desktop\gitstudys\pointer\main.cpp
+	<iostream>
+	<Shape.h>
+
+1533841309 source:c:\users\umroot\desktop\gitstudys\pointer\src\shape.cpp
+	"Shape.h"
+
+1533841582 c:\users\umroot\desktop\gitstudys\pointer\include\shape.h
+
